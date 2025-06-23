@@ -36,29 +36,29 @@ A powerful and extensible **backend REST API** built with **Java 17** and **Spri
 ---
 
 ## 🧱 Project Architecture
-
+```
 com.example.Student_Management_Project/
 │
-├── controller/                 # REST API Endpoints
-│   ├── studentController.java
-│   └── teacherController.java
+├── controller/ # REST API Endpoints
+│ ├── studentController.java
+│ └── teacherController.java
 │
-├── entity/                     # JPA Entity Models
-│   ├── Studententity.java
-│   └── Teacherentity.java
+├── entity/ # JPA Entity Models
+│ ├── Studententity.java
+│ └── Teacherentity.java
 │
-├── dao/ or repository/         # Data Access Layer
-│   ├── StudentRepository.java
-│   └── TeacherRepository.java
+├── dao/ or repository/ # Data Access Layer
+│ ├── StudentRepository.java
+│ └── TeacherRepository.java
 │
-├── service/                    # Business Logic Layer
-│   ├── studentService.java
-│   └── teacherService.java
+├── service/ # Business Logic Layer
+│ ├── studentService.java
+│ └── teacherService.java
 │
-└── resources/                  # Configuration Files
-    └── application.properties
+└── resources/ # Configuration Files
+└── application.properties 
+```
 
----
 
 ## 🔗 Some Endpoints
 
