@@ -94,6 +94,9 @@ This project adheres to **SOLID principles** and follows a **clean, testable arc
 ## 👨‍💻 Author
 
 - **Vishwajeet More**  
+## 👨‍💻 Author
+
+- **Vishwajeet More**  
+- 📧 [vishwajeet12.messi@gmail.com](mailto:vishwajeet12.messi@gmail.com)  
 - 📧 [vishwajeetmore2023.comp@mmcoe.edu.in](mailto:vishwajeetmore2023.comp@mmcoe.edu.in)  
 - 🌐 GitHub: [Darkegale12](https://github.com/Darkegale12)
-
